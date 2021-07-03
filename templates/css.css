@@ -1,0 +1,18 @@
+*{
+	padding: 0;
+	margin: 0;
+	outline: none;
+}
+body{
+	background: blue;
+	background-size: cover;
+	height: 100vh;
+}
+.form{
+	max-width:550px;
+	margin: 0 auto;
+	background: rgba(0,0,0,0.8);
+	padding: 30px;
+	border-radius: 5px;
+	display: flex;
+}
